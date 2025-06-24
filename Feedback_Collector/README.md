@@ -109,26 +109,11 @@ __________
 __________
 
 
-## 🤝 Contributing
-
-Pull requests are welcome!  
-For major changes, please open an issue first to discuss what you would like to change.
-
 ---
 
 ## 📧 Contact
 
-For questions or suggestions, open an issue or contact [darshannagane955@gmail.com](darshannagne955@gmail.com.com).
+For questions or suggestions, open an issue or contact (nandrajbanker32@gmail.com).
 
 ---
-
-## ⭐️ Show your support
-
-If you like this project, please give it a ⭐️ on GitHub!
-
----
-
-Made with ❤️ by a beginner, for beginners!
-
-
 
